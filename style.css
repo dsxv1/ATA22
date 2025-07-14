@@ -131,7 +131,7 @@ section {
 .content h1 span {
   font-weight: 700;
   text-shadow: 0 0 10px rgb(252, 3, 3);
-  color: rgb(58, 211, 3);
+  color: rgb(252, 3, 3);
 }
 
 .content .typewriter {
@@ -158,7 +158,7 @@ section {
   background-color: transparent;
   border: 0.2rem solid rgb(252, 3, 3);
   border-radius: 50%;
-  color: rgb(58, 211, 3);
+  color: rgb(252, 3, 3);
   margin: 0 15px;
   font-size: 1.5rem;
   transition: 0.2s linear;
